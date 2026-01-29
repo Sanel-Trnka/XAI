@@ -3,7 +3,7 @@ A comparison of ante-hoc and post-hoc models using the Wisconsin Breast Cancer D
 
 Sanel Trnka\
 sanel.ts@gmail.com\
-Github Repo: https://github.com/Sanel-Trnka/XAI \
+Github Repo: https://github.com/Sanel-Trnka/interpretability-wdbc \
 Dataset: https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data \
 (See SETUP.md for project setup and usage instructions)
 

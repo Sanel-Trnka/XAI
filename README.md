@@ -1,7 +1,7 @@
 # Trees vs. Neurons: Interpretability in Breast Cancer Diagnosis
 A comparison of ante-hoc and post-hoc models using the Wisconsin Breast Cancer Dataset.
 
-Sanel Trnka (7045971)\
+Sanel Trnka\
 sanel.ts@gmail.com\
 Github Repo: https://github.com/Sanel-Trnka/XAI \
 Dataset: https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data \
